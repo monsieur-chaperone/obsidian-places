@@ -1,3 +1,5 @@
+![](image-canvas.png)
+
 An example [Obsidian](https://obsidian.md/) vault containing collection of notes on Countries, US States, Continents, Oceans, and Planets. It is best used with [Map View](https://github.com/esm7/obsidian-map-view) and [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin.
 
 ## Get started
